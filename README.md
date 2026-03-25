@@ -1,3 +1,4 @@
+https://learn.microsoft.com/en-us/aspnet/core/security/data-protection/using-data-protection?view=aspnetcore-10.0&source=recommendations  
 # Lightning Lab: Encryption with ASP.NET Core Data Protection
 Don't (or no need to) clone the repo. It's my completed codebase to prove that it worked on my machine once if anything goes bad  
 
