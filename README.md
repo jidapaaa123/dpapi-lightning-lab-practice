@@ -180,9 +180,7 @@ public class VaultController : ControllerBase
 
 **Things to notice:**
 - `CreateProtector("SecretVault.v1")`  
-```
-A purpose string provides isolation between consumers. For example, a protector created with a purpose string of "green" wouldn't be able to unprotect data provided by a protector with a purpose of "purple".
-```
+> A purpose string provides isolation between consumers. For example, a protector created with a purpose string of "green" wouldn't be able to unprotect data provided by a protector with a purpose of "purple".
 - `Protect()` and `Unprotect()` 
 - The `/raw` endpoint  
 
